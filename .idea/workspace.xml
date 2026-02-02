@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e92957d-cdab-4269-99a7-04603534357a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/report.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/report_integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="4e92957d-cdab-4269-99a7-04603534357a" name="Changes" comment="&quot;프론트 백엔드 잘 올라가는지 테스트&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +58,15 @@
       <option name="presentableId" value="Default" />
       <updated>1770015002527</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;프론트 백엔드 잘 올라가는지 테스트&quot;">
+      <option name="closed" value="true" />
+      <created>1770019784623</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770019784623</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;프론트 백엔드 잘 올라가는지 테스트&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;프론트 백엔드 잘 올라가는지 테스트&quot;" />
   </component>
 </project>
