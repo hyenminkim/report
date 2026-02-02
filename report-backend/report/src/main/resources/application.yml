@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+spring:
+  output:
+    ansi:
+      enabled: always
+
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/views/
+
+  datasource:
+    url: jdbc:sqlserver://sql19-004.cafe24.com:1433;databaseName=tkdoor2010;encrypt=false
+    username: tkdoor2010
+    password: tkd2614@!
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
